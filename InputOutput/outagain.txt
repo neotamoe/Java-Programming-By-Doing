@@ -1,0 +1,17 @@
+In Xanadu did Kubla Khan
+A stately pleasure-dome decree:
+Where Alph, the sacred river, ran
+Through caverns measureless to man
+Down to a sunless sea.
+
+I think this is a pretty cool program
+though it is noted that: "CopyBytes seems
+like a normal program, but it actually represents
+a kind of low-level I/O that you should avoid. Since
+xanadu.txt contains character data, the best
+approach is to use character streams, as discussed
+in the next section. There are also streams for more
+complicated data types. Byte streams should only be used
+for the most primitive I/O."
+
+Source: https://docs.oracle.com/javase/tutorial/essential/io/bytestreams.html

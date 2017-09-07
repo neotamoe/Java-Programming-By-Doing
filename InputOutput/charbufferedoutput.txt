@@ -1,0 +1,10 @@
+In Xanadu did Kubla Khan
+A stately pleasure-dome decree:
+Where Alph, the sacred river, ran
+Through caverns measureless to man
+Down to a sunless sea.
+
+
+
+Source for CopyBytes: https://docs.oracle.com/javase/tutorial/essential/io/bytestreams.html
+Source for CopyCharacters & CopyLines: https://docs.oracle.com/javase/tutorial/essential/io/charstreams.html
