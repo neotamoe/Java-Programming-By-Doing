@@ -1,0 +1,2 @@
+Black_Lab, 2, 65
+Chihuahua, 4, 5
